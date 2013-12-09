@@ -1,4 +1,6 @@
 minbackuper
 ===========
 
-Minimal backaper
+Minimal backuper
+
+Just script, list and config
