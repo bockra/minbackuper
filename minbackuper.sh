@@ -9,7 +9,10 @@
 ###   backuper as it is		  ###
 ###				  ###
 #####################################
-
+#
+#todo:
+#argument for extracting and argument for spec file
+#
 
 #file that consists of dirs and files you want to backup
 list_dir="/etc/minbackuper/"
