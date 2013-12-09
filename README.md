@@ -3,4 +3,4 @@ minbackuper
 
 Minimal backuper
 
-Just script, list and config
+backup with cron and tar 
